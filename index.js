@@ -12,7 +12,7 @@
  * @private
  */
 
-var db = require('mime-db')
+var db = require('mime-db-enhanced')
 
 const extname = function(path) {
   if (!path || path.indexOf('.') === -1) { return '' }
