@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ThilinaSampath/mime-db.git"
+    "url": "git+https://github.com/ThilinaSampath/react-native-mime-types.git"
   },
   "dependencies": {
     "mime-db-enhanced": "~1.25.0"
