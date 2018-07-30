@@ -1,5 +1,5 @@
 {
-  "name": "react-native-mime-types",
+  "name": "react-native-mime-types-enhanced",
   "description": "The ultimate javascript content-type utility.",
   "version": "2.2.1",
   "contributors": [
@@ -13,7 +13,10 @@
     "mime",
     "types"
   ],
-  "repository": "Liroo/react-native-mime-types",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThilinaSampath/mime-db.git"
+  },
   "dependencies": {
     "mime-db-enhanced": "~1.25.0"
   },
