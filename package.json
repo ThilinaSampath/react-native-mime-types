@@ -18,7 +18,7 @@
     "url": "git+https://github.com/ThilinaSampath/react-native-mime-types.git"
   },
   "dependencies": {
-    "mime-db-enhanced": "~1.25.0"
+    "mime-db-enhanced": "~1.25.1"
   },
   "devDependencies": {
     "eslint": "3.10.2",
